@@ -24,7 +24,6 @@ The project combines **neuronal simulations** (Brian2-based) with **post-simulat
 
 Project Structure
 -----------------
-## Project Structure
 
 ```text
 Project/
